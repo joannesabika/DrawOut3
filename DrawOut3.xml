@@ -16,7 +16,7 @@
           <block type="oled_setend" id="35" inline="true">
             <value name="ENDX">
               <block type="math_number" id="154">
-                <field name="NUM">20</field>
+                <field name="NUM">10</field>
               </block>
             </value>
             <value name="ENDY">
@@ -31,7 +31,7 @@
                   <block type="oled_setcursor" id="53" inline="true">
                     <value name="STARTX">
                       <block type="math_number" id="168">
-                        <field name="NUM">20</field>
+                        <field name="NUM">10</field>
                       </block>
                     </value>
                     <value name="STARTY">
@@ -43,7 +43,7 @@
                       <block type="oled_setend" id="62" inline="true">
                         <value name="ENDX">
                           <block type="math_number" id="182">
-                            <field name="NUM">30</field>
+                            <field name="NUM">20</field>
                           </block>
                         </value>
                         <value name="ENDY">
@@ -58,7 +58,7 @@
                               <block type="oled_setcursor" id="80" inline="true">
                                 <value name="STARTX">
                                   <block type="math_number" id="202">
-                                    <field name="NUM">30</field>
+                                    <field name="NUM">20</field>
                                   </block>
                                 </value>
                                 <value name="STARTY">
@@ -70,7 +70,7 @@
                                   <block type="oled_setend" id="96" inline="true">
                                     <value name="ENDX">
                                       <block type="math_number" id="216">
-                                        <field name="NUM">40</field>
+                                        <field name="NUM">30</field>
                                       </block>
                                     </value>
                                     <value name="ENDY">
@@ -85,7 +85,7 @@
                                           <block type="oled_setcursor" id="232" inline="true">
                                             <value name="STARTX">
                                               <block type="math_number" id="239">
-                                                <field name="NUM">40</field>
+                                                <field name="NUM">30</field>
                                               </block>
                                             </value>
                                             <value name="STARTY">
@@ -97,7 +97,7 @@
                                               <block type="oled_setend" id="255" inline="true">
                                                 <value name="ENDX">
                                                   <block type="math_number" id="262">
-                                                    <field name="NUM">50</field>
+                                                    <field name="NUM">40</field>
                                                   </block>
                                                 </value>
                                                 <value name="ENDY">
