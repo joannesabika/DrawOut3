@@ -4,7 +4,7 @@
       <block type="oled_setcursor" id="26" inline="true">
         <value name="STARTX">
           <block type="math_number" id="140">
-            <field name="NUM">0</field>
+            <field name="NUM">10</field>
           </block>
         </value>
         <value name="STARTY">
@@ -21,7 +21,7 @@
             </value>
             <value name="ENDY">
               <block type="math_number" id="161">
-                <field name="NUM">20</field>
+                <field name="NUM">30</field>
               </block>
             </value>
             <next>
@@ -36,7 +36,7 @@
                     </value>
                     <value name="STARTY">
                       <block type="math_number" id="175">
-                        <field name="NUM">20</field>
+                        <field name="NUM">30</field>
                       </block>
                     </value>
                     <next>
@@ -48,7 +48,7 @@
                         </value>
                         <value name="ENDY">
                           <block type="math_number" id="189">
-                            <field name="NUM">30</field>
+                            <field name="NUM">50</field>
                           </block>
                         </value>
                         <next>
@@ -63,7 +63,7 @@
                                 </value>
                                 <value name="STARTY">
                                   <block type="math_number" id="209">
-                                    <field name="NUM">30</field>
+                                    <field name="NUM">50</field>
                                   </block>
                                 </value>
                                 <next>
